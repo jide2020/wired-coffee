@@ -1,1 +1,1 @@
-# creating a wired coffee shop recipe project
+## Creating a wired coffee shop recipe project
