@@ -13,4 +13,5 @@ Please click the link below to understand the process for this next stage.
 - Your understanding of GitHub Product (*Issues, pull request, gist, wiki and github pages*).
 
 Please see below image describing GitHub flow, we hope this will guide you during assessment.  
+![ GitHubFlow ](images/Capture1.JPG).
 
